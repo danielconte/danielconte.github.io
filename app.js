@@ -34,14 +34,19 @@ $(document).ready(function(){
 				segundos = 10;
 				contaTempo();
 				break;
-		}
-		//alert(letra);
-		//alert(letra);
-		
 
+			case 109:
+				mostrar();
+				break;	
+		}
+		
 	});
 	
 });
+
+function mostrar(){
+	$('#ocultar').toggleClass("oculto");
+}
 
 
 function contaTempo(){
