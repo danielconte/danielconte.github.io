@@ -1,0 +1,52 @@
+.borda-inferior {
+	border-bottom: 3px solid #455F49;
+}
+
+.item-lista {
+	margin-bottom: 20px;
+}
+
+.fundo-azul {
+	background-color: #020865;
+	margin-top: 20px;
+}
+
+.fundo-cinza {
+	background-color: #CCCCCC;
+}
+
+.fundo-azul-escuro {
+	background-color: #053697;
+}
+
+#logo {
+	margin: 10px;
+}
+
+#rodape img {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#transparencia {
+	color: #ffffff;
+}
+
+.icone{
+	height: 16px;
+}
+
+.carousel-inner .item {
+	height: 450px;
+}
+
+.cover {
+	object-fit: cover;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.noticias {
+	background-color: #044005;
+	color: #ffffff;
+}
